@@ -1,0 +1,22 @@
+[
+    {
+        "title": "3 Detective",
+        "author": "Rokib Hasan",
+        "isbn": 38529,
+        "year": 1985,
+        "price": 20,
+        "quantity": 100,
+        "bookAddedAt": "11-12-2024 22:06:44",
+        "bookLastUpdatedAt": "13-12-2024 23:17:03"
+    },
+    {
+        "title": "Flow",
+        "author": "Mihaly",
+        "isbn": 55532,
+        "year": 2000,
+        "price": 500,
+        "quantity": 23,
+        "bookAddedAt": "13-12-2024 22:58:40",
+        "bookLastUpdatedAt": ""
+    }
+]
